@@ -56,8 +56,8 @@ module.exports = {
           title: 'Recommended Reads',
           items: [
             {
-              label: 'Style Guide',
-              to: '',
+              label: 'Starter Guide',
+              to: 'https://web.advanced-kind.com',
             },
           ],
         },
