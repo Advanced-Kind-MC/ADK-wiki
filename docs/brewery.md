@@ -61,6 +61,7 @@ Big: 5 fences, 16 wooden stairs, 18 wooden planks
 
 ![img](smallbarrel.png)
 
+
 ---
 
 ## Recipes
