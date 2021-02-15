@@ -3,7 +3,6 @@ id: money
 title: How To Make Money
 sidebar_label: How To Make Money
 ---
-# How to Make Money on ADK
 The economy is a big part of the game on ADK and with a player-based economy you may be wondering just how to make money. Well, this wiki page is here to explain the many ways to make money on the server!
 
 ---

@@ -3,7 +3,6 @@ id: starter_guide
 title: Starter Guide
 sidebar_label: Starter Guide
 ---
-# Tutorial
 ## Welcome to ADK
 ADK is an SMP, towny, vanilla+ server! 
 

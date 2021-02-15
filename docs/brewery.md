@@ -3,7 +3,6 @@ id: brewery
 title: Brewery
 sidebar_label: Brewery
 ---
-# Brewery
 Advanced-Kind features Brewery, a plugin that adds an extra challenge to the towny experience; being able to walk in a straight line. 
 It allows players to:
 
