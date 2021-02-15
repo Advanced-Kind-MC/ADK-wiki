@@ -27,7 +27,7 @@ Try to still be present in Discord whenever possible, and be communicative. Let 
 
 ---
 ## Rules & Enforcement
-Make yourself very well acquainted with [the rules](docs\rules.md). When moderating follow the punishment tables outlined there for each offense. Taking into account the history of the player and how many times he has done this same offense (check **#📜record**). Some things such as Doxxing and Slurs have a 0 tolerance rule, but whenever possible try to avoid banning people. Also keep in mind the playtime of the player and try to avoid unnecessary harm.
+Make yourself very well acquainted with [the rules](./rules.md). When moderating follow the punishment tables outlined there for each offense. Taking into account the history of the player and how many times he has done this same offense (check **#📜record**). Some things such as Doxxing and Slurs have a 0 tolerance rule, but whenever possible try to avoid banning people. Also keep in mind the playtime of the player and try to avoid unnecessary harm.
 
 Document everything, you must be able to back a ban/warn/mute with solid evidence. This can be requested by other Staff Members or by the players themselves in **#📩appeals**. You can take screenshots of chats and coreprotect logs. For more advanced investigations such as hacks or bigger griefs use a recording software.  Always produce proof when required. I recommend making a folder and labeling each screenshot/video with the name of the accused and the date.
 
