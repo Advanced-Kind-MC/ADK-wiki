@@ -3,7 +3,6 @@ id: rules
 title: Rules
 sidebar_label: Rules
 ---
-# Server Rules
 To keep the server a fun and safe environment for everyone, there are some ground rules everyone must follow
 ## Rules
 1. Be respectful to other players and Staff.
