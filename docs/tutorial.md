@@ -2,7 +2,6 @@
 id: tutorial
 title: Tutorial
 sidebar_label: Tutorial
-slug: /
 ---
 # Tutorial
 ## Welcome to ADK
