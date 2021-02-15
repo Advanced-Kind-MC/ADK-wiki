@@ -10,7 +10,7 @@ module.exports = {
   projectName: 'Advanced-Kind Wiki', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Wiki Advanced-Kind',
+      title: 'Wiki | Advanced-Kind',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
