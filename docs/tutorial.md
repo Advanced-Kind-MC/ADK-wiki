@@ -34,7 +34,7 @@ A great way to get money for starting your own town is to complete **/applicatio
 
 ---
 ## Applications
-If you type **/applications** and fill out the two forms (they reequire a free forum account), you can contact staff and they will award you with 12,000 coins for each application you compelte. This helps the server out and can help kick start your journey
+If you type **/applications** and fill out the two forms (they require a free forum account), you can contact staff and they will award you with 12,000 coins for each application you compelte. This helps the server out and can help kick start your journey
 
 ---
 ## Villagers and Voting
