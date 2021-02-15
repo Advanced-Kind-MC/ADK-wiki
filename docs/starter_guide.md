@@ -1,7 +1,7 @@
 ---
-id: tutorial
-title: Tutorial
-sidebar_label: Tutorial
+id: starter_guide
+title: Starter Guide
+sidebar_label: Starter Guide
 ---
 # Tutorial
 ## Welcome to ADK
