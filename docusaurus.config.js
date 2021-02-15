@@ -17,7 +17,7 @@ module.exports = {
       },
       items: [
         {
-          href: "discord.advanced-kind.com",
+          href: "https://discord.advanced-kind.com",
           label: "Discord",
           position: "right",
         },
