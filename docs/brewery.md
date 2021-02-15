@@ -70,7 +70,7 @@ It's time to try the various concoctions Advanced-Kind has to offer! Bottoms up!
 Information that is substituted with question marks is up to the player to discover. Hints are in both the name and the effects of said brew.
 :::
 
-### MINER RUM
+### Miner Rum
 Ingredients:
 1. 2x (?)
 2. 8x Redstone
