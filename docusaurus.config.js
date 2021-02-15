@@ -15,6 +15,18 @@ module.exports = {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
+      items: [
+        {
+          href: "discord.advanced-kind.com",
+          label: "Discord",
+          position: "right",
+        },
+        {
+          href: "https://web.advanced-kind.com/",
+          label: "Home Page",
+          position: "right",
+        },
+      ],
     }, 
     colorMode: {
       // "light" | "dark"
