@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Wiki | Advanced-Kind',
-  tagline: 'The tagline of my site',
-  url: 'https://test.advanced-kind.com',
+  tagline: 'Where Advanced-Kind and documentation meet ;)',
+  url: 'https://wiki.advanced-kind.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
