@@ -50,15 +50,15 @@ Keep in mind:
 #### Barrel Sizes:
 Small: Minecraft 1.14 Barrel
 
-![img](smallbarrel.png)
+![img](images/smallbarrel.png)
 
 Medium: 8 Wooden Stairs
 
-![img](medbarrel.png)
+![img](images/medbarrel.png)
 
 Big: 5 fences, 16 wooden stairs, 18 wooden planks
 
-![img](smallbarrel.png)
+![img](images/smallbarrel.png)
 
 
 ---
