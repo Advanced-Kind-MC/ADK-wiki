@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Wiki | Advanced-Kind',
-  tagline: 'The tagline of my site',
-  url: 'https://test.advanced-kind.com',
+  tagline: 'Where Advanced-Kind and documentation meet ;)',
+  url: 'https://wiki.advanced-kind.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -10,11 +10,23 @@ module.exports = {
   projectName: 'Advanced-Kind Wiki', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Wiki Advanced-Kind',
+      title: 'Wiki | Advanced-Kind',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
+      items: [
+        {
+          href: "https://discord.advanced-kind.com",
+          label: "Discord",
+          position: "right",
+        },
+        {
+          href: "https://web.advanced-kind.com/",
+          label: "Home Page",
+          position: "right",
+        },
+      ],
     }, 
     colorMode: {
       // "light" | "dark"

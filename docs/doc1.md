@@ -1,9 +1,9 @@
 ---
 id: doc1
-title: Style Guide
-sidebar_label: Style Guide
-slug: /
+title: How To Contribute
+sidebar_label: How To Contribute
 ---
+The ADK Wiki is mantained both by the Staff Team, Dev Team and the Player base alike! Would you like to help out with our documentation? Contributing is as simple as making a document using markdown and submitting it to our Discord in a ticket. If you know how to use Github you can also fork our [Public Repository](https://github.com/JustAMatt/ADK-wiki) 
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
