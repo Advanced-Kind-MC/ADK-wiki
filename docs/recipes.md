@@ -7,89 +7,85 @@ On ADK, we have some custom recipes implemented to help out our gameplay. These 
 
 ---
 
-![img](images/recipe1.png)
+![img](images/recipe2.PNG)
 
 ---
 
-![img](images/recipe2.png)
+![img](images/recipe3.PNG)
 
 ---
 
-![img](images/recipe3.png)
+![img](images/recipe4.PNG)
 
 ---
 
-![img](images/recipe4.png)
+![img](images/recipe5.PNG)
 
 ---
 
-![img](images/recipe5.png)
+![img](images/recipe6.PNG)
 
 ---
 
-![img](images/recipe6.png)
+![img](images/recipe7.PNG)
 
 ---
 
-![img](images/recipe7.png)
+![img](images/recipe8.PNG)
 
 ---
 
-![img](images/recipe8.png)
+![img](images/recipe9.PNG)
 
 ---
 
-![img](images/recipe9.png)
+![img](images/recipe10.PNG)
 
 ---
 
-![img](images/recipe10.png)
+![img](images/recipe11.PNG)
 
 ---
 
-![img](images/recipe11.png)
+![img](images/recipe12.PNG)
 
 ---
 
-![img](images/recipe12.png)
+![img](images/recipe13.PNG)
 
 ---
 
-![img](images/recipe13.png)
+![img](images/recipe14.PNG)
 
 ---
 
-![img](images/recipe14.png)
-
----
-
-![img](images/recipe15.png)
+![img](images/recipe15.PNG)
 
 Roasting rotten flesh over a campfire will produce bones
 
 ---
 
-![img](images/recipe16.png)
+![img](images/recipe16.PNG)
 
 ---
 
-![img](images/recipe17.png)
+![img](images/recipe17.PNG)
 
 ---
 
-![img](images/recipe18.png)
+![img](images/recipe18.PNG)
 
 ---
 
-![img](images/recipe19.png)
+![img](images/recipe19.PNG)
 
 ---
 
-![img](images/recipe20.png)
+![img](images/recipe20.PNG)
 
 ---
 
-![img](images/recipe21.png)
+![img](images/recipe21.PNG)
 
 ---
 
