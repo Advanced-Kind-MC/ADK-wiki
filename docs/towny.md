@@ -20,7 +20,7 @@ There are plenty of benefits to joining a town over just living in the wild, so 
 ## Town Upkeep
 One of the customizations ADK has is the economic impact of towns. In order to stay running, towns must pay their daily upkeep which is determined by player count. This chart explains the configuration we use:
 
-![img](townychart.png)
+![img](images/townychart.png)
 
 ---
 ## Town Ranks
