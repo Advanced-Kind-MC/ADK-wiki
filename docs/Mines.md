@@ -1,5 +1,3 @@
-# **Advanced-Kind Mines**
-
 Mines is the first 100% custom Towny modification that was introduced to Advanced-Kind. Mines are customizable areas which allow for the regenerative production of ores. They are one of the choices for town production of which Mayors and Co-Mayors of small settlements enjoy. They have several tiers which increase ore capacity and choice along with price.
 
 
