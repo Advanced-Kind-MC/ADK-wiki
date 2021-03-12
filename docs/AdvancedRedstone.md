@@ -1,6 +1,6 @@
-# **Craftbook!**
+# **Advanced Redstone!**
 
-Craftbook, simply put, is a hub of several different features. It spices up the regular gameplay with things like new dispenser uses, technical mechanics, minecart enhancements, and more! So without further ado, let's list off what we've added:
+Advanced Redstone, simply put, is a hub of several different features. It spices up the regular gameplay with things like new dispenser uses, technical mechanics, minecart enhancements, and more! So without further ado, let's list off what we've added:
 
 ---
 
