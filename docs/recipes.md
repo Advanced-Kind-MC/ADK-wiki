@@ -112,11 +112,11 @@ You can craft the globe pattern with emeralds since villagers were disabled.
 
 ---
 
-![img]https://cdn.discordapp.com/attachments/811390073617645578/826969116195422238/unknown.png
+![https://cdn.discordapp.com/attachments/811390073617645578/826969116195422238/unknown.png]
 
 ---
 
-![img]!https://cdn.discordapp.com/attachments/811390073617645578/826969210215333889/unknown.png
+![https://cdn.discordapp.com/attachments/811390073617645578/826969210215333889/unknown.png]
 
 ---
 
