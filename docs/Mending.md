@@ -1,5 +1,3 @@
-# **Mending!**
-
 Likelihood is if you're an average ADK player and looking to make some pretty cool gear, you're going to need some mending books. Unlike most servers, we here in ADK don't have villagers to make mending worthless, but instead have several alternatives!
 
 Here are all the different ways one can get mending on the server:
