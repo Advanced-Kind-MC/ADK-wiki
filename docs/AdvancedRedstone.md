@@ -19,11 +19,11 @@ It's in the name to be honest, it changes sponges for the better in a couple of 
 
 ## _Dispenser Recipes_
 Now this is some of the real fun, using dispensers you can now make a few different contraptions! These are made by filling the dispenser interface with the following layouts, and once that's been done all you need to do is activate the dispenser with redstone to then activate the machine.
-- The cannon dispenser, lives up to its name of being a cannon and propels TNT out of it with a lot of force. Using the layout below, you just activate it and let the bombs fly! ![https://media.discordapp.net/attachments/335834907156676609/819046725889163275/cannondisp.png](https://media.discordapp.net/attachments/335834907156676609/819046725889163275/cannondisp.png)
+- The cannon dispenser, lives up to its name of being a cannon and propels TNT out of it with a lot of force. Using the layout below, you just activate it and let the bombs fly! ![image](https://user-images.githubusercontent.com/71091547/113226646-aeabae00-925e-11eb-96e6-d18f190b4757.png)
 - The fan dispenser, using this you can push all entities 5 blocks away, maybe you can use it for traps or interesting obstacle courses? Use the picture below to fill your dispenser, and I'm sure you'll be a *fan* of this mechanic in no time.
-![https://cdn.discordapp.com/attachments/335834907156676609/819046728241905734/fandisp.png](https://cdn.discordapp.com/attachments/335834907156676609/819046728241905734/fandisp.png)
+![image](https://user-images.githubusercontent.com/71091547/113226636-a94e6380-925e-11eb-9bd5-4425de63e10d.png)
 - And last but not least, the vacuum dispenser, which is essentially the opposite of the fan. It'll pull entities in from 5 blocks in front of it, so any pesky mob drop just out of reach will be yours once you use the layout below!
-![https://cdn.discordapp.com/attachments/335834907156676609/819046729319186432/vacuumdisp.png](https://cdn.discordapp.com/attachments/335834907156676609/819046729319186432/vacuumdisp.png)
+![image](https://user-images.githubusercontent.com/71091547/113226667-b5d2bc00-925e-11eb-9ce9-05bdbe0214da.png)
 
 ---
 
