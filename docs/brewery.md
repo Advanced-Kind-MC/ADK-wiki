@@ -166,3 +166,64 @@ Cook Time: 10-30 mins
 Effects:
 1. Speed 1-2 (?)
 
+### Lemonade
+
+Ingredients:
+1. 10x Yellow_Dye
+2. 5x Sugar
+3. 1x Water Bucket
+
+Cooking Time: ?
+
+Distill Runs: ?
+
+Effects:
+1. Speed 1-2 for 100 Seconds
+
+### Lucky Brew
+
+Ingredients:
+1. 20x Sugar
+2. 3x Water_Bucket
+3. 3x ?
+
+Distill Runs: ?
+
+Cooking time: 3 hours
+
+Wood: Any
+
+Age: ?
+
+Effects:
+1. Luck (2 Minutes)
+
+### Hot Cocoa
+
+Ingredients:
+1. 5x Sugar
+2. 3x Milk-Bucket
+3. 5x Cocoa Beans
+
+Cooking Time: 1 Hour
+
+Effects:
+1. Speed 1-2 (60 Seconds)
+2. Night Vision (60 Seconds)
+
+### Please Don't
+
+1. 32x ?
+2. 64x Sweet Berries
+3. 64x ?
+
+Cooking Time: ?
+
+Distill Runs: ?
+
+Effects:
+1. Poison 1 (60 Seconds)
+2. Harming 2 (?)
+3. Wither 1 (40 Seconds)
+4. Regeneration 1 (60 Seconds)
+5. Health Boost 1-3 (30 Seconds)
