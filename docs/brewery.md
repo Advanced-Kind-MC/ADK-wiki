@@ -207,6 +207,8 @@ Ingredients:
 
 Cooking Time: 1 Hour
 
+Distill Runs: 1
+
 Effects:
 1. Speed 1-2 (60 Seconds)
 2. Night Vision (60 Seconds)
