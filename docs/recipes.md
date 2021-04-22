@@ -119,3 +119,16 @@ You can craft the globe pattern with emeralds since villagers were disabled.
 
 ---
 
+![image](https://user-images.githubusercontent.com/71091547/115795288-a6e2b380-a39d-11eb-975d-be1ddf5d95b6.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/71091547/115795293-aba76780-a39d-11eb-9952-9e5198cc727b.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/71091547/115795306-b3670c00-a39d-11eb-9f25-0d87b8e7c500.png)
+Alternate Dispenser Recipe
+
+---
+![image](https://user-images.githubusercontent.com/71091547/115795326-b8c45680-a39d-11eb-9d2a-c84cd304bb1c.png)
