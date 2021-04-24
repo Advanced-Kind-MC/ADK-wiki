@@ -171,7 +171,7 @@ Effects:
 Ingredients:
 1. 10x Yellow_Dye
 2. 5x Sugar
-3. 1x Water Bucket
+3. 1x Sunflower
 
 Cooking Time: ?
 
@@ -202,7 +202,7 @@ Effects:
 
 Ingredients:
 1. 5x Sugar
-2. 3x Milk-Bucket
+2. 2x Orange Tulip
 3. 5x Cocoa Beans
 
 Cooking Time: 1 Hour
