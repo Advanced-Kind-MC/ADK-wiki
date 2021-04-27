@@ -173,7 +173,7 @@ Ingredients:
 2. 5x Sugar
 3. 1x Sunflower
 
-Cooking Time: ?
+Cooking Time: 15
 
 Distill Runs: ?
 
