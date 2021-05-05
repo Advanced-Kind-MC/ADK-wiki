@@ -20,7 +20,7 @@ Upon Death, your inventory is put into a death chest or **grave** which lasts fo
 
 ---
 ## Griefing Protections
-You may protect your chests by right clicking them with a sign. Your builds and chests are protected unless you have been inactive for 28 days, at which they become accessible to others. You can run **/seen (playername)** to check
+You may protect your chests by right clicking them with a sign. Your builds and chests are protected unless you have been inactive for 28 days, at which they become accessible to others. You can run **/seen (playername)** to check.
 
 ---
 ## Towns
@@ -33,7 +33,7 @@ A great way to get money for starting your own town is to complete **/applicatio
 
 ---
 ## Applications
-If you type **/applications** and fill out the two forms (they require a free forum account), you can contact staff and they will award you with 12,000 coins for each application you compelte. This helps the server out and can help kick start your journey
+If you type **/applications** and fill out the two forms (they require a free forum account), you can contact staff and they will award you with 10,000 coins for each application you compelte. This helps the server out and can help kick start your journey.
 
 ---
 ## Villagers and Voting
