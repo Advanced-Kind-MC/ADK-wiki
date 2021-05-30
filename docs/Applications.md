@@ -1,6 +1,7 @@
 
-Applications are a **one-time** use method of earning some quick and easy cash, whether you use it to stimulate the player-run economy or to start your own town! By doing both applications, you can
+Applications are a **one-time** use method of earning some quick and easy cash, whether you use it to stimulate the player-run economy or to start your own town! By doing both applications, you can get enough money to start a town or buy some things you may need!
 
+Without further ado, let's get into how you do the applications:
 
 ## _How To_
 To fill out the two applications and get started on filling them out, first you'll need the sites:
