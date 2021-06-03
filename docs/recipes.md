@@ -6,7 +6,7 @@ sidebar_label: Custom Recipes
 On ADK, we have some custom recipes implemented to help out our gameplay. These mainly include work arounds for things that have been removed from the game on the server (ie. no villagers or custom terrain). Below is a list of the recipes that you can use on the server.
 
 ---
-
+##Diorite to Cobble
 ![img](images/recipe2.PNG)
 Now you can craft diorite into cobblestone!
 
@@ -135,3 +135,6 @@ Alternate Dispenser Recipe
 
 ---
 ![image](https://media.discordapp.net/attachments/811390073617645578/848698992976199700/unknown.png)
+
+---
+![image](https://cdn.discordapp.com/attachments/811390073617645578/849109366677176370/unknown.png)
