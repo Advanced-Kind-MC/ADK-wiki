@@ -184,12 +184,12 @@ Effects:
 
 Ingredients:
 1. 20x Sugar
-2. 3x Milk_Bucket
+2. 3x Milk Bucket
 3. 3x ?
 
-Distill Runs: ?
-
 Cooking time: 3 hours
+
+Distill Runs: ?
 
 Wood: Any
 
