@@ -187,9 +187,9 @@ Ingredients:
 2. 3x Milk Bucket
 3. 3x ?
 
-Distill Runs: ?
-
 Cooking time: 3 hours
+
+Distill Runs: ?
 
 Wood: Any
 
