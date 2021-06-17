@@ -46,6 +46,9 @@ The Deep Wilderness adds new materials and drop (listed in the section below), a
 ***Ares Chestplate***
 >1 Netherite Chestplate, 1 Mending Book, 1 Protection 4 Book, 1 Unbreaking 3 Book, 1 Corrupted Steel
 
+***Abbathor's Pickaxe***
+>1 Netherite Pick, 1 Mending, 1 Fortune 3 Book, 1 Unbreaking 3 Book, 1 Corrupted Steel
+
 ***Corrupted Steel***
 >8 Nether Essence, 1 Corrupted Scrap
 
@@ -66,6 +69,23 @@ The Deep Wilderness adds new materials and drop (listed in the section below), a
 **Nether Essence**
 **Deep Wilderness Key Fragment**
 **Condensed Leather**
+
+---
+
+## ***The Forge***
+
+This is a step by step process on how to make the forge in which you will drop materials to make the items above, starting with the first layer all the way to the top:
+![https://cdn.discordapp.com/attachments/792883358434721793/854962205703405578/forge1.png](https://cdn.discordapp.com/attachments/792883358434721793/854962205703405578/forge1.png)
+![https://cdn.discordapp.com/attachments/792883358434721793/854962206205804564/forge2.png](https://cdn.discordapp.com/attachments/792883358434721793/854962206205804564/forge2.png)
+![https://cdn.discordapp.com/attachments/792883358434721793/854962208043827230/forge3.png](https://cdn.discordapp.com/attachments/792883358434721793/854962208043827230/forge3.png)
+
+![https://cdn.discordapp.com/attachments/792883358434721793/854962209599389726/forge4.png](https://cdn.discordapp.com/attachments/792883358434721793/854962209599389726/forge4.png)
+![https://cdn.discordapp.com/attachments/792883358434721793/854962211188899860/forge5.png](https://cdn.discordapp.com/attachments/792883358434721793/854962211188899860/forge5.png)
+![https://cdn.discordapp.com/attachments/792883358434721793/854962213492359198/forge6.png](https://cdn.discordapp.com/attachments/792883358434721793/854962213492359198/forge6.png)
+
+![https://cdn.discordapp.com/attachments/792883358434721793/854962217027502090/forge7.png](https://cdn.discordapp.com/attachments/792883358434721793/854962217027502090/forge7.png)
+![https://cdn.discordapp.com/attachments/792883358434721793/854962219863506985/forge8.png](https://cdn.discordapp.com/attachments/792883358434721793/854962219863506985/forge8.png)
+![https://cdn.discordapp.com/attachments/792883358434721793/854962222529642517/forge9.png](https://cdn.discordapp.com/attachments/792883358434721793/854962222529642517/forge9.png)
 
 ---
 
