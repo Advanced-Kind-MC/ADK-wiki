@@ -115,8 +115,7 @@ All mobs in the new map will have their own unique drops, which will be listed d
 ||3 Mcmmo Credits|2 Corrupted Scrap|Netherite Sickle|Immortal Tag|
 ||Immortal Tag|Netherite Sickle|Mending|Mending|
 ||Iron Sickle|Mending Book|||
-||1 Mcmmo Credits|Immortal Tag|||
-|**Lowest**|3 Mcmmo Credits|||
+|**Lowest**|1 Mcmmo Credits|Immortal Tag|||
 
 |Aggressive Panda|The Exploding Bush|Jumping Spider|Master Brewer|River Leach|
 |---|---|---|---|---|
