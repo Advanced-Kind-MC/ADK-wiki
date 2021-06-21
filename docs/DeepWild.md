@@ -5,7 +5,7 @@ Noted as Advanced-Kind's 1.18, and one of the biggest updates since launch, the 
 ---
 
 ## ***How To Get There***
-Within the normal world there are 4 regions which will take you to 4 different points in the deep wilderness. When you approach the regions, then run the command /journey begin and they will pay 10 thousand dollars to teleport to the deep wilderness map. Coords are listed below (in order of X, Y, Z):
+Within the normal world there are 4 regions which will take you to 4 different points in the deep wilderness. When you approach the regions, then run the command /journey begin and they will pay 5 thousand dollars to teleport to the deep wilderness map. Coords are listed below (in order of X, Y, Z):
 
 #### **The North Region**
 **16, 64, -12178** to **1324, 64, -11726**
