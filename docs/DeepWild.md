@@ -5,7 +5,7 @@ Noted as Advanced-Kind's 1.18, and one of the biggest updates since launch, the 
 ---
 
 ## ***How To Get There***
-Within the normal world there are 4 regions which will take you to 4 different points in the deep wilderness. When you approach the regions, then run the command /journey begin and they will pay 10 thousand dollars to teleport to the deep wilderness map. Coords are listed below (in order of X, Y, Z):
+Within the normal world there are 4 regions which will take you to 4 different points in the deep wilderness. When you approach the regions, then run the command /journey begin and they will pay 5 thousand dollars to teleport to the deep wilderness map. Coords are listed below (in order of X, Y, Z):
 
 #### **The North Region**
 **16, 64, -12178** to **1324, 64, -11726**
@@ -33,21 +33,38 @@ And that's pretty much all the information about what changes in the new map, so
 
 The Deep Wilderness adds new materials and drop (listed in the section below), and so you can use these new obtainable items to make different recipes for gear and items:
 
+#### **Alternatives/Bonus Effects**
+
+All armor does not have thorns by default, in order to add thorns to the armor you will need to add ***1 wither rose*** to the forge.
+
+All tools can be crafted with either silk touch or fortune, all you'll need to do is use either a silk touch or fortune book in the recipe.
+
 #### **Craftable**
 ***Ares Helmet***
->1 Netherite Helmet, 1 Mending Book, 1 Protection 4 Book, 1 Unbreaking 3 Book, 1 Corrupted Steel
+>1 Netherite Helmet, 1 Mending Book, 1 Protection 4 Book, 1 Unbreaking 3 Book, 3 Corrupted Steel
 
 ***Ares Boots***
->1 Netherite Boots, 1 Mending Book, 1 Protection 4 Book, 1 Unbreaking 3 Book, 1 Corrupted Steel
+>1 Netherite Boots, 1 Mending Book, 1 Protection 4 Book, 1 Unbreaking 3 Book, 3 Corrupted Steel
 
 ***Ares Leggings***
->1 Netherite Leggings, 1 Mending Book, 1 Protection 4 Book, 1 Unbreaking 3 Book, 1 Corrupted Steel
+>1 Netherite Leggings, 1 Mending Book, 1 Protection 4 Book, 1 Unbreaking 3 Book, 3 Corrupted Steel
 
 ***Ares Chestplate***
->1 Netherite Chestplate, 1 Mending Book, 1 Protection 4 Book, 1 Unbreaking 3 Book, 1 Corrupted Steel
+>1 Netherite Chestplate, 1 Mending Book, 1 Protection 4 Book, 1 Unbreaking 3 Book, 3 Corrupted Steel
 
-***Abbathor's Pickaxe***
->1 Netherite Pick, 1 Mending, 1 Fortune 3 Book, 1 Unbreaking 3 Book, 1 Corrupted Steel
+***Vein Miner Pickaxe***
+>1 Netherite Pick, 1 Mending Book, 1 Fortune 3 or Silk Touch Book, 1 Unbreaking 3 Book, 1 Corrupted Steel
+
+***Nukas Shovel***
+>1 Netherite Shovel, 1 Mending Book, 1 Fortune 3 or Silk Touch Book, 1 Unbreaking 3 Book, 1 Corrupted Steel
+
+***Abbathor's Axe***
+>1 Netherite Axe, 1 Mending Book, 1 Fortune 3 or Silk Touch Book, 1 Unbreaking 3 Book, 1 Corrupted Steel
+
+***Ares Sword***
+>1 Netherite Sword, 1 Mending Book, 1 Sharpness 3 Book, 1 Unbreaking 3 Book, 3 Corrupted Steel
+>
+>**Adding a Nether Essence to the forge will add fire aspect to the sword!**
 
 ***Corrupted Steel***
 >8 Nether Essence, 1 Corrupted Scrap
@@ -115,8 +132,7 @@ All mobs in the new map will have their own unique drops, which will be listed d
 ||3 Mcmmo Credits|2 Corrupted Scrap|Netherite Sickle|Immortal Tag|
 ||Immortal Tag|Netherite Sickle|Mending|Mending|
 ||Iron Sickle|Mending Book|||
-||1 Mcmmo Credits|Immortal Tag|||
-|**Lowest**|3 Mcmmo Credits|||
+|**Lowest**|1 Mcmmo Credits|Immortal Tag|||
 
 |Aggressive Panda|The Exploding Bush|Jumping Spider|Master Brewer|River Leach|
 |---|---|---|---|---|
