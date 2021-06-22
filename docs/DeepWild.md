@@ -62,7 +62,7 @@ All tools can be crafted with either silk touch or fortune, all you'll need to d
 >1 Netherite Axe, 1 Mending Book, 1 Fortune 3 or Silk Touch Book, 1 Unbreaking 3 Book, 1 Corrupted Steel
 
 ***Ares Sword***
->1 Netherite Sword, 1 Mending Book, 1 Sharpness 3 Book, 1 Unbreaking 3 Book, 3 Corrupted Steel
+>1 Netherite Sword, 1 Mending Book, 1 Sharpness 5 Book, 1 Unbreaking 3 Book, 3 Corrupted Steel
 >
 >**Adding a Nether Essence to the forge will add fire aspect to the sword!**
 
