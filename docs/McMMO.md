@@ -1,48 +1,53 @@
-ADK McMMO
+ADK AureliumSkills
 
-Here in ADK, we do things a bit differently than most. We run a modified version of the McMMO plugin, and most of the changes are to the leveling system. All levels go from 1 to 100 instead of 1 to 1000 (basically dividing the initial values by ten). Then, leveling these skills up is just slightly harder in ADK.
-> The basic wiki for McMMO can be found [here!](https://mcmmo.org/wiki/Main_Page)
-
----
-
-## ***Double Drops***
-
-Double drops (from skills) in ADK have been reduced from the default, but the good news is if you're willing to put in the time and grind, you can obtain **GUARANTEED** double drops. By reaching level 500 in any skill with a double drop trait, you will then get guaranteed double drops on things you harvest.
+Here in ADK, we do things a bit differently than most. For AureliumSkills to not be insanely over powered, we have changed around many variables dealing with Damage, Health, and Damage Reduction. We have also changed the leveling formula to be closer to that of Runescapes instead of the base leveling formula included with the plugin. We also go from level 1 to 100, instead of the base 1 to 96. You can also check out a basic wiki for AureliumSkills [here!](https://wiki.aurelium.dev/skills/)
 
 ---
 
-## ***Alchemy***
+## ***Increased Drops***
 
-Although we have many cool, unique, and interesting [brews](https://wiki.advanced-kind.com/brewery), we do of course have McMMO alchemy. However, the recipes have been rearranged just a little bit, so the actual levels you earn new potions go as such:
- - LVL 25: Dullness, Hunger
- - LVL 35: Nausea
- - LVL 50: Water Breathing, Saturation
- - LVL 65: Leaping, Absorption
- - LVL 75: Decay, Health Boost
- - LVL 85: Resistance 
- - LVL 100: Haste
-
-Ingredients to brew each potion will remain the same as the wiki, so good luck working your way up to haste!
+Increased drops are gained by leveling up your skills. The more you level up your skills in a certain area, the more drops you will then get from doing that said activity. For Example, as you level up your Mining Skills you will then get more drops from blocks, like stone, different ores, etc....
 
 ---
 
 ## ***Fishing***
 
-In McMMO fishing, you are able to fish up a variety of things, including netherite equipment and enchanted books! There are six levels of loot obtainable with fishing, each increasing in quality as you climb, here are some examples:
+In AureliumSkills Fishing you can fish up many different things other then the base items you get from Vanilla Fishing. Below you can see a list of everything that can be gotten from Fishing in ADK:
 
-|Common|Uncommon|Rare|Epic|Legendary|Mythic|
-|---|---|---|---|---|---|
-|Leather Armor|Stone Tools|Iron Tools|Iron Armor|Diamond Equipment|Netherite Armor|
-|Wooden Tools|Gold & Iron Ingots|Nametags|Ghast Tears|Nautilus Shells|Netherite Tools|
-|Lapis|Golden Gear|Ender Pearls & Bows|Diamonds|Netherite Scrap|Enchanted Books|
+Rare:
+4-16 Kelp
+1-2 Natilus Shells
+1-2 Scutes
+2-4 Glow Ink Sac
+16-48 Prismarine Crystals
+16-48 Prismarine Shards
+2-4 Wet Sponges
 
-And don't worry, your enchanted books will be useful more often than not, as they have been limited to a pool of: **Fortune**, **Protection**,  **Mending**, **Unbreaking**, **Soul Speed**, **Curse of Binding**, **Curse of Vanishing**, **Channeling**, and **Looting**.
-Each rank of the treasure hunter increases your odds of getting those higher rewards, and these are the levels at which it'll increase, along with percentage changes:
-|% Numbers|Lvl 1|Lvl 25|Lvl 35|Lvl 50|Lvl 65|Lvl 75|Lvl 85|Lvl 100|
-|---|---|---|---|---|---|---|---|---|
-|**Common**|7.5|6.5|3.5|2|1.5|1|.25|.1|
-|**Uncommon**|1.25|1.75|2.75|3.5|3.75|3.25|2.75|1.5|
-|**Rare**|.25|.75|1.25|2.25|2.5|3.75|4|6|
-|**Epic**|.1|.5|1|1.5|2|2.5|5|7.5|
-|**Legendary**|.01|.05|.1|1|1|1.5|2.5|5|
-|**Mythic**|.01|.01|.01|.01|.01|.05|.1|.25|
+Epic:
+1 Trident
+1 Totem of Undying
+1 Heart of the Sea
+1 Elytra
+
+---
+
+## ***Excavation***
+
+In AureliumSkills Excavation while you excavate you can dig up many different things other then the normal items dropped. Below you can see a list of everything that can be gotten from Excavating in ADK (Depending on what block you are excavating):
+
+Rare:
+2-4 Glowstone Dust
+1 Golden Carrot
+1-3 Bones
+1-3 Blaze Powders
+1-3 Ghast Tears
+1 Iron Ingot
+1 Slime Ball
+1 Gold Ingot
+1-2 Gunpowder
+
+Epic:
+1 Enchanted Golden Apple
+1-2 Diamonds
+1 Name Tag
+1 Netherite Scrap
