@@ -33,8 +33,13 @@ Coal can now be crafted into black dye because squids are so annoying to find.
 
 ---
 ## _Invisible Item Frame_
-![img](images/recipe7.PNG)
+![img](https://cdn.discordapp.com/attachments/951640479294951454/1004237315763347486/unknown.png)
 With the invisible item frame crafting perk, you can craft frames that turn invisible when something is placed in them.
+It uses a base Invisibility Splash Potion
+
+---
+## _Glowing Invisible Item Frame_
+![img](https://cdn.discordapp.com/attachments/951640479294951454/1002827005299019889/unknown.png)
 
 ---
 ## _Clay Blocks to Balls_
@@ -124,3 +129,19 @@ Alternate Dispenser Recipe
 ---
 ## _Erased Book_
 ![image](https://cdn.discordapp.com/attachments/811390073617645578/849109366677176370/unknown.png)
+
+---
+## _Sea Lantern_
+![image](https://cdn.discordapp.com/attachments/951640479294951454/1002820997373767680/unknown.png)
+
+---
+## _Gilded Blackstone_
+![image](https://cdn.discordapp.com/attachments/951640479294951454/1002821668462403635/unknown.png)
+
+---
+## _Honeycomb Block to Honerycombs_
+![image](https://cdn.discordapp.com/attachments/951640479294951454/1002823031716065340/unknown.png)
+
+---
+## _Alternet for Sticky Piston_
+![image](https://cdn.discordapp.com/attachments/951640479294951454/1002824311503065088/unknown.png)
