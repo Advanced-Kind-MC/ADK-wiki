@@ -8,3 +8,15 @@ Quest World, or the "The Severed Plane" is an addition along side the Towny expe
 The Quest World is currently in Beta. As the development of it continues this wiki page will become more filled out.
 
 ---
+
+:::caution
+
+Quest World is in BETA, bugs are expected.
+
+:::
+
+:::warning
+
+Quest World Wiki Section is not complete.
+
+:::
