@@ -26,15 +26,6 @@ You may protect your chests by right clicking them with a sign. Your builds and 
 ## Towns
 Towns offer protection from outsiders, a separate chat, and many other resources and benefits. To join a town, ask around in chat and a recruiter may notice and invite you! You can also create your own town for 20,000 coins.
 
-
-:::tip
-A great way to get money for starting your own town is to complete **/applications**
-:::
-
----
-## Applications
-If you type **/applications** and fill out the two forms (they require a free forum account), you can contact staff and they will award you with 10,000 coins for each application you compelte. This helps the server out and can help kick start your journey.
-
 ---
 ## Villagers and Voting
 ADK has a completely player-based economy, and as such, villager trading is disabled. Instead, mending can be acquired through voting, treasure chests, salvaging, fishing, and other means. **/vote** will give you keys to use at **/warp crate**.

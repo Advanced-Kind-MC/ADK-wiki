@@ -7,10 +7,6 @@ The economy is a big part of the game on ADK and with a player-based economy you
 
 ---
 
-## Applications
-One of the first ways you should be making money on the server, is with **/applications**. This can be done once during your time on ADK. The command brings you to two websites where you will be prompted to make a free account and fill out a questionnaire. Each questionnaire will make you 12,000 coins, and is a great way to get you started off on the server with a bit of money while helping out the server in the process.
-
----
 ## Jobs
 Jobs are the main way you will be making money on ADK. Here on the server, we have a plugin that gives you money for doing certain tasks related to jobs you can join.
 
